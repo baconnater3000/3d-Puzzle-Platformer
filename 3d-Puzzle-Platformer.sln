@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3d-Puzzle-Platformer.CSharp.Plugins", "3d-Puzzle-Platformer.CSharp.Plugins.csproj", "{B00415FE-57E6-5DC7-D5A2-9971097ADCAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3d-Puzzle-Platformer.CSharp", "3d-Puzzle-Platformer.CSharp.csproj", "{73537FD9-1485-2EA0-9EF1-51D5D2B877CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3d-Puzzle-Platformer.CSharp.Editor", "3d-Puzzle-Platformer.CSharp.Editor.csproj", "{CA8D64D4-AD61-1759-A7A2-9D25408DE5D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B00415FE-57E6-5DC7-D5A2-9971097ADCAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B00415FE-57E6-5DC7-D5A2-9971097ADCAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B00415FE-57E6-5DC7-D5A2-9971097ADCAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B00415FE-57E6-5DC7-D5A2-9971097ADCAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73537FD9-1485-2EA0-9EF1-51D5D2B877CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73537FD9-1485-2EA0-9EF1-51D5D2B877CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73537FD9-1485-2EA0-9EF1-51D5D2B877CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73537FD9-1485-2EA0-9EF1-51D5D2B877CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA8D64D4-AD61-1759-A7A2-9D25408DE5D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA8D64D4-AD61-1759-A7A2-9D25408DE5D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA8D64D4-AD61-1759-A7A2-9D25408DE5D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA8D64D4-AD61-1759-A7A2-9D25408DE5D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
